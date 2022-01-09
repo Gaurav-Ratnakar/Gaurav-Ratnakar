@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav-Ratnakar
+- 👋 Hi, I’m Gaurav Ratnakar
 - 👀 I’m interested in Learning!
 - 🌱 I’m currently learning Computer Science Engineering 
 - 💞️ I’m looking to collaborate on java based desktop applications, OpenCV and Machine Learning projects.
