@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Ratnakar
 - 👀 I’m interested in Learning!
-- 🌱 I’m currently learning Computer Science Engineering 
+- 🌱 A Computer Science Engineering graduate  
 - 💞️ I’m looking to collaborate on java based desktop applications, OpenCV and Machine Learning projects.
 - 📫 Reach me at gauravratnakar8@gmail.com
 <!---
